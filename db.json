@@ -7,14 +7,9 @@
 {"id": 5, "title": "Post 5", "description": "this is description 5"},
 {"id": 6, "title": "Post 6", "description": "this is description 6"}
 ],
-"comments": [
+"comments": 
 {"id": 1, "body": "comment 1", "postId": 1},
-{"id": 2, "body": "comment 2", "postId": 2},
-{"id": 3, "body": "comment 3", "postId": 3},
-{"id": 4, "body": "comment 4", "postId": 4},
-{"id": 5, "body": "comment 5", "postId": 5},
-{"id": 6, "body": "comment 6", "postId": 6}
-],
+
 "profile":
   [
   {"name": "Profile 11"},
