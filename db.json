@@ -15,9 +15,7 @@
 {"id": 5, "body": "comment 5", "postId": 5},
 {"id": 6, "body": "comment 6", "postId": 6}
 ],
-"profile": [
+"profile":
 { "name": "Profile 1"},
-{ "name": "Profile 2"},
-{ "name": "Profile 3"}
-]
+
 }
