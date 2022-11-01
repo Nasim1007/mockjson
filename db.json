@@ -1,11 +1,19 @@
 {
 "posts":[
-{"id": 1, "name": "Фирух", "surname": "Махмудов"},
-{"id": 2, "name": "Матин", "surname": "Хошимов"},
-{"id": 3, "name": "Бехруз", "surname": "Шукуров"},
-{"id": 4, "name": "Искандар", "surname": "Искандаров"},
-{"id": 5, "name": "Юсуб", "surname": "Сайфулоев"},
-{"id": 6, "name": "Мунир", "surname": "Муниров"}
+{"id": 1, "name": "Фирух", "surname": "Махмудов", "job":"Frontend Developer", "age": 22, "data": "10.10.22"},
+{"id": 2, "name": "Матин", "surname": "Хошимов", "job":"IOS Developer", "age": 22, "data": "1.10.22"},
+{"id": 3, "name": "Бехруз", "surname": "Шукуров", "job":"Скрипач", "age": 18, "data": "10.09.22"},
+{"id": 4, "name": "Искандар", "surname": "Искандаров", "job":"Backend", "age": 15, "data": "1.09.22"},
+{"id": 5, "name": "Юсуф", "surname": "Сайфулоев", "job":"Android Developer", "age": 14, "data": "1.09.22"},
+{"id": 6, "name": "Мунир", "surname": "Муниров", "job":"Frontend Developer", "age": 14, "data": "10.09.22"}
+],
+  "comments":[
+  {"id": 1, "body": "comment 1", "postId": 1},
+  {"id": 2, "body": "comment 2", "postId": 2},
+  {"id": 3, "body": "comment 3", "postId": 3},
+  {"id": 4, "body": "comment 4", "postId": 4},
+  {"id": 5, "body": "comment 5", "postId": 5},
+  {"id": 6, "body": "comment 6", "postId": 6}
 ],
 
 "profile":
