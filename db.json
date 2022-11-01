@@ -15,7 +15,9 @@
 {"id": 5, "body": "comment 5", "postId": 5},
 {"id": 6, "body": "comment 6", "postId": 6}
 ],
-"profile": { "name": "Profile 1"},
-"profile": { "name": "Profile 2"},
-"profile": { "name": "Profile 3"}
+"profile": [
+{ "name": "Profile 1"},
+{ "name": "Profile 2"},
+{ "name": "Profile 3"}
+]
 }
