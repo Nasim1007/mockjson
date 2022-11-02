@@ -1,11 +1,11 @@
 {
 "posts":[
-{"id": 1, "name": "Фирух", "surname": "Махмудов", "job":"Frontend Developer", "age": 22, "date": "10.10.22"},
-{"id": 2, "name": "Матин", "surname": "Хошимов", "job":"IOS Developer", "age": 22, "date": "1.10.22"},
-{"id": 3, "name": "Бехруз", "surname": "Шукуров", "job":"Скрипач", "age": 18, "date": "10.09.22"},
-{"id": 4, "name": "Искандар", "surname": "Искандаров", "job":"Backend", "age": 15, "date": "1.09.22"},
-{"id": 5, "name": "Юсуф", "surname": "Сайфулоев", "job":"Android Developer", "age": 14, "date": "1.09.22"},
-{"id": 6, "name": "Мунир", "surname": "Муниров", "job":"Frontend Developer", "age": 14, "date": "10.09.22"}
+{"id": 1, "name": "Фирух", "surname": "Махмудов", "job":"Frontend Developer", "age": 22, "date": "22-10-10"},
+{"id": 2, "name": "Матин", "surname": "Хошимов", "job":"IOS Developer", "age": 22, "date": "22-10-1"},
+{"id": 3, "name": "Бехруз", "surname": "Шукуров", "job":"Скрипач", "age": 18, "date": "22-09-1"},
+{"id": 4, "name": "Искандар", "surname": "Искандаров", "job":"Backend", "age": 15, "date": "22-09-1"},
+{"id": 5, "name": "Юсуф", "surname": "Сайфулоев", "job":"Android Developer", "age": 14, "date": "22-09-1"},
+{"id": 6, "name": "Мунир", "surname": "Муниров", "job":"Frontend Developer", "age": 14, "date": "22-09-10"}
 ],
   "comments":[
   {"id": 1, "body": "comment 1", "postId": 1},
